@@ -27,7 +27,7 @@ let education = [
         id: 2,
         year: 2020,
         description: 'I Gradutated from chef school',
-        place: '',
+        place: "",
         type: '',
         certificate: ''
     },
